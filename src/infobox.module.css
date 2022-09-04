@@ -1,0 +1,11 @@
+.infobox {
+  width: 400px;
+  height: 480px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #0000001a;
+  margin: 0 auto;
+}
+
+.slides {
+  display: block;
+}
